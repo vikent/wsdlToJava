@@ -1,0 +1,5 @@
+.idea
+*.wsdl
+*.iml
+src/com
+target
